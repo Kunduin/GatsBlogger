@@ -18,7 +18,7 @@ React is a JavaScript library for building user interfaces.
 
 [more details here](https://github.com/facebook/react)
 
-##License
+## License
 
 GatsBlogger is [Apache License 2.0](https://github.com/Kunduin/GatsBlogger/blob/master/LICENSE).
 
