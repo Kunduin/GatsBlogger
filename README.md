@@ -16,6 +16,8 @@ Gatsby is a blazing-fast static site generator for React.
 
 React is a JavaScript library for building user interfaces.
 
+I use the project [create-react-app](https://github.com/facebook/create-react-app) to get started immediately.
+
 [more details here](https://github.com/facebook/react)
 
 ## License
