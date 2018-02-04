@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# GatsBlogger
 
-You can use the [editor on GitHub](https://github.com/Kunduin/GatsBlogger/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+GatsBlogger is a simple blogger powered by [Gatsby](https://github.com/gatsbyjs/gatsby) + [React](https://github.com/facebook/react)
 
-### Markdown
+I build this web to learn react.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Gatsby
 
-```markdown
-Syntax highlighted code block
+Gatsby is a blazing-fast static site generator for React.
 
-# Header 1
-## Header 2
-### Header 3
+[more details here](https://github.com/gatsbyjs/gatsby)
 
-- Bulleted
-- List
+### React
 
-1. Numbered
-2. List
+React is a JavaScript library for building user interfaces.
 
-**Bold** and _Italic_ and `Code` text
+[more details here](https://github.com/facebook/react)
 
-[Link](url) and ![Image](src)
-```
+##License
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+GatsBlogger is [Apache License 2.0](https://github.com/Kunduin/GatsBlogger/blob/master/LICENSE).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kunduin/GatsBlogger/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
