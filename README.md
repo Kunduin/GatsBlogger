@@ -1,5 +1,7 @@
 # GatsBlogger
 
+*This project is under active development.* [check the demo here](https://kunduin.github.io/GatsBlogger/gatsblogger/build/index.html)
+
 ## Introduction
 
 GatsBlogger is a simple blogger powered by [Gatsby](https://github.com/gatsbyjs/gatsby) + [React](https://github.com/facebook/react)
