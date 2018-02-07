@@ -1,6 +1,6 @@
 # GatsBlogger
 
-*This project is under active development.* [check the demo here](https://kunduin.github.io/GatsBlogger/gatsblogger/build/index.html)
+*This project is under active development.* [check the demo here](https://kunduin.github.io/GatsBlogger/learning/build/index.html)
 
 ## Introduction
 
