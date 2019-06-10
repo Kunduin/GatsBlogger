@@ -8,13 +8,13 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
-    "gatsby": "^1.9.158",
-    "gatsby-link": "^1.6.34",
-    "gatsby-plugin-glamor": "^1.6.11",
-    "gatsby-plugin-typography": "^1.7.13",
-    "gatsby-source-filesystem": "^1.5.18",
-    "gatsby-transformer-remark": "^1.7.30",
-    "glamorous": "^4.11.4",
+    "gatsby": "^2.8.6",
+    "gatsby-link": "^2.1.1",
+    "gatsby-plugin-glamor": "^2.0.10",
+    "gatsby-plugin-typography": "^2.2.13",
+    "gatsby-source-filesystem": "^2.0.38",
+    "gatsby-transformer-remark": "^2.3.12",
+    "glamorous": "^5.0.0",
     "typography-theme-kirkham": "^0.16.3"
   }
 }
