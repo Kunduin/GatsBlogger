@@ -1,5 +1,7 @@
 # GatsBlogger
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kunduin/GatsBlogger.svg)](https://greenkeeper.io/)
+
 *This project is under active development.* [check the demo here](https://kunduin.github.io/GatsBlogger/learning/build/index.html)
 
 ## Introduction
