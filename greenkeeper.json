@@ -1,0 +1,14 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "learning/package.json",
+        "tutorial-part-four/package.json",
+        "tutorial-part-one/package.json",
+        "tutorial-part-three/package.json",
+        "tutorial-part-two/package.json",
+        "tutorial-part-two/tutorial-part-three/package.json"
+      ]
+    }
+  }
+}
